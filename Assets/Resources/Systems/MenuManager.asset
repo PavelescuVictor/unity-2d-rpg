@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39a4244ba56ae8b439c95babb9020622, type: 3}
+  m_Name: MenuManager
+  m_EditorClassIdentifier: 
+  mainMenuPrefab: {fileID: 1181202428609302, guid: d91d550e201703a4593de804d003a2a6,
+    type: 3}
+  pauseMenuPrefab: {fileID: 1346717364456180, guid: d71fb5b41d6fbed469ae724461f48e96,
+    type: 3}
+  saveMenuPrefab: {fileID: 1203296764697740, guid: 6e73496fe16e05141b06f72996a2a5c5,
+    type: 3}
+  canvasPrefab: {fileID: 1934951701693962, guid: f6f6943bb2f9499479c7152bd33a74d5,
+    type: 3}
+  loadMenuPrefab: {fileID: 1171710920080768, guid: 998ecc87acbf05f40b65b12888668e8a,
+    type: 3}
+  optionMenuPrefab: {fileID: 1074867737490188, guid: 4119f60c4bb1fbc46be6f3a487c8042d,
+    type: 3}
+  mainScene: Level1
