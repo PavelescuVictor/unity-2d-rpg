@@ -3,7 +3,7 @@
 Implementation of a 2D RPG game in Unity
 ## Requirements
 Unity 2019.2.0b10 or later
-## In-game Artwork and Animations
+## In-game Artwork
 
 ![alt text](https://github.com/PavelescuVictor/Unity2DRPG/blob/master/Image%20Progression%20Gif%20v2.gif)
 
