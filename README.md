@@ -57,6 +57,7 @@
 * Click on the image below to watch a little demo of the game.
 ---
 <kdb>
-  <a href="https://www.youtube.com/watch?v=Mq7G_RWzq9g"><b>&#9608; <b><img src="https://github.com/PavelescuVictor/Unity2DRPG/blob/master/Image-Progression%208.png"/></a>
+  <b> &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608 &#9608
+  <a href="https://www.youtube.com/watch?v=Mq7G_RWzq9g"><b><img src="https://github.com/PavelescuVictor/Unity2DRPG/blob/master/Image-Progression%208.png"/></a>
 </kbd>
 ---
