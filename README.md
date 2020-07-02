@@ -25,6 +25,7 @@
 * **Dialog** messages when iteracting with Neutral AI Entities
 * **Particle Systems** used to create sun rays, rain, leaf falling particles and dust in the air.
 * **Lighting System** used to create a day/night cycle (not fully implemented) and full night with multiple light emitting objects
+* Multiple Lights Effects
 ---
 ## Upcomming features
 * Full dialog system
